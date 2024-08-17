@@ -59,4 +59,4 @@ G40,high,yes,excellent,yes
 ![r2](https://github.com/user-attachments/assets/5388e2b6-f827-46be-9530-fa48b0663132)
 
 ### RESULT: 
-Thus the program has been executed successfully.
+Thus, generation of association rules using apriori algorithm is executed succesfully.
